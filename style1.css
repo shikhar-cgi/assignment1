@@ -1,0 +1,106 @@
+body
+{
+	background-color: pink;
+}
+.wrap h1
+{
+	font-size: 100px;
+}
+
+.wrap li
+{    
+	
+	display:inline;
+
+}
+.wrap ul
+{
+	margin-left: 320px;
+}
+.wrap p
+{
+margin-top: 50px;
+margin-left:200px;
+}
+a
+{
+	 text-decoration: none;
+}
+h1
+{
+	font-size: 1000px;
+}
+p
+{
+float:left;
+}
+.wrap img
+{
+	margin-left: 200px;
+	margin top:100px;
+	height: 200px;
+	width: 300px;
+}
+.shikhar img
+{
+	marker-end: 20px
+ margin-top: 50px;
+ margin-left: 45px;
+ width: 300px;
+ height: 300px;
+}
+.shikhar h1
+{
+	margin-left: 350px;
+	margin-top: 200px;
+    
+}
+.shikhar p
+{
+	margin-top:100px;
+}
+.heading h1{
+	font-size: 80px;
+	margin-left:300px;
+}
+.shikhar h1
+{
+	font-size: 50px; 
+}
+.chem img
+{  margin-top: 20px;
+  width: 300px;
+}
+.mech img
+{
+	width:300px;
+	margin-top: 46px;
+}
+.mining img
+{
+	margin-top: 47px;
+	width:290px;
+	height: 100px;
+}
+.heading img
+{
+	float: up;
+}
+.chem h1
+{
+	font-size: 20px;
+}
+.jo p
+{
+	float:right;
+}
+.heading h1
+{
+	
+	
+	text-align: center;
+	margin-right:300px;
+} 
+.wrap ul
+{
+}
